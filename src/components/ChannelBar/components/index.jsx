@@ -41,6 +41,6 @@ export const TopicSelection = ({ selection }) => (
 
 export const ChannelBlock = () => (
   <div className='channel-block'>
-    <h5 className='channel-block-text'>Channels</h5>
+    <h5 className='channel-block-text'>Work stuff</h5>
   </div>
 );
