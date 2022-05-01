@@ -1,8 +1,8 @@
 ## Discord-Inspired Dashboard with Tailwind CSS
+#### Deployed with Firebase [Live](https://discord-tailwind-19e4e.web.app/)
 
 ![App screenshot](https://cdn.discordapp.com/attachments/917864818189418576/970402241821438052/unknown.png)
 
-#### Deployed with Firebase [Live](https://discord-tailwind-19e4e.web.app/)
 
 #### Project has dark and light mode
 
